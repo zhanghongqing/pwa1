@@ -1,4 +1,8 @@
 <template>
+    <div id="container">
+        <div class="item">1</div>
+        <div class="item">2</div>
+    </div>
 </template>
 
 <script>

@@ -47,6 +47,11 @@ export const state = () => {
                         text: 'Detail Page 3',
                         icon: 'sentiment_neutral',
                         route: '/detail/3'
+                    },
+                    {
+                        text: 'Detail Page 4',
+                        icon: 'sentiment_neutral',
+                        route: '/detail/4'
                     }
                 ]
             }
